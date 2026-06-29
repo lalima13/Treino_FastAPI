@@ -280,7 +280,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 **Lucas Lima**
 - Email: lucaslimatech98@gmail.com
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@lalima13](https://github.com/lalima13)
 
 ## 🤝 Contribuindo
 
